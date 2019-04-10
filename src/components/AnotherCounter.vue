@@ -1,5 +1,6 @@
 <template>
   <div>
+    <hr>
     <button class="btn btn-primary" @click="increment">Increment</button>
     <button class="btn btn-primary" @click="decrement">Decrement</button>
   </div>
